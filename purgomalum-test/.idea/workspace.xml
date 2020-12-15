@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3366156-186b-4252-a8a5-4a3a9274acd7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/softwares/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/softwares/apache-maven-3.5.4/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lcFKCkZGdVPjhHY3ThDqnPsvCW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607888004451" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.typerenderers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: purgomalum">
+    <configuration name="Feature: purgomalum" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/purgomalum.feature" />
+      <option name="GLUE" value="com.purgomalum.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="purgomalum-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: purgomalum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Replace with another text more tham mximum allowed value" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/purgomalum.feature" />
+      <option name="GLUE" value="com.purgomalum.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="purgomalum-test" />
+      <option name="NAME_FILTER" value="^Replace with another text more tham mximum allowed value$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Replace with another text more tham mximum allowed value$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Replace with another text more tham mximum allowed value" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: find and fill with another character" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/purgomalum.feature" />
+      <option name="GLUE" value="com.purgomalum.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="purgomalum-test" />
+      <option name="NAME_FILTER" value="^find and fill with another character$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^find and fill with another character$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: find and fill with another character" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: find and replace with optional parameters Add and Fill Text" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/purgomalum.feature" />
+      <option name="GLUE" value="com.purgomalum.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="purgomalum-test" />
+      <option name="NAME_FILTER" value="^find and replace with optional parameters Add and Fill Text$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^find and replace with optional parameters Add and Fill Text$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: find and replace with optional parameters Add and Fill Text" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="purgomalum-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.purgomalum.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.purgomalum.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.purgomalum.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: find and replace with optional parameters Add and Fill Text" />
+      <item itemvalue="Cucumber java.Scenario: find and fill with another character" />
+      <item itemvalue="Cucumber java.Scenario: Replace with another text more tham mximum allowed value" />
+      <item itemvalue="TestNG.TestRunner" />
+      <item itemvalue="Cucumber java.Feature: purgomalum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: purgomalum" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Replace with another text more tham mximum allowed value" />
+        <item itemvalue="Cucumber java.Scenario: find and fill with another character" />
+        <item itemvalue="Cucumber java.Scenario: find and replace with optional parameters Add and Fill Text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3366156-186b-4252-a8a5-4a3a9274acd7" name="Default Changelist" comment="" />
+      <created>1607878666866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607878666866</updated>
+      <workItem from="1607888409724" duration="1095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>purgomalum-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
